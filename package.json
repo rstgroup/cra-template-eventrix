@@ -1,6 +1,6 @@
 {
   "name": "cra-template-eventrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "format": "prettier --write ./template/src/**/*.js",
     "lint": "cross-env NODE_ENV=development eslint ./template/src/**/*.js",
