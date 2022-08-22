@@ -1,7 +1,5 @@
 # cra-template-eventrix
-![build status](https://img.shields.io/github/workflow/status/rstgroup/cra-template-eventrix/Tests/master?style=flat-square)
 [![npm version](https://img.shields.io/npm/v/cra-template-eventrix.svg?style=flat-square)](https://www.npmjs.com/package/cra-template-eventrix)
-[![npm downloads](https://img.shields.io/npm/dm/cra-template-eventrix.svg?style=flat-square)](https://www.npmjs.com/package/cra-template-eventrix)
 
 The official Eventrix+JS template for [Create React App](https://github.com/facebook/create-react-app)
 
